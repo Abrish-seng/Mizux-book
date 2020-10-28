@@ -27,6 +27,17 @@ min-height: 600px;
     height: 100%;
 }
 }
+.bett-smart h3{
+    color: $primary;
+}
+.strong-fast .card{
+    background: $primary;
+    color: #fff;
+}
+
+
+
+
 @media(max-width:768px){
     #showcase{
         min-height: 500px;
